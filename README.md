@@ -4,7 +4,10 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Project Preview
+Release (Real time):
 <img src="Showcase/Release.gif" width="900">
+
+Debug (With profiler):
 <img src="Showcase/Debug.gif" width="900">
 
 ## Features 
