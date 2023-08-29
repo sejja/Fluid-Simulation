@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fluid", "fluid\fluid.vcxproj", "{70538186-4C59-477A-AD75-F50D0D42C5AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70538186-4C59-477A-AD75-F50D0D42C5AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{70538186-4C59-477A-AD75-F50D0D42C5AC}.Debug|Win32.Build.0 = Debug|Win32
+		{70538186-4C59-477A-AD75-F50D0D42C5AC}.Debug|x64.ActiveCfg = Debug|x64
+		{70538186-4C59-477A-AD75-F50D0D42C5AC}.Debug|x64.Build.0 = Debug|x64
+		{70538186-4C59-477A-AD75-F50D0D42C5AC}.Release|Win32.ActiveCfg = Release|Win32
+		{70538186-4C59-477A-AD75-F50D0D42C5AC}.Release|Win32.Build.0 = Release|Win32
+		{70538186-4C59-477A-AD75-F50D0D42C5AC}.Release|x64.ActiveCfg = Release|x64
+		{70538186-4C59-477A-AD75-F50D0D42C5AC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46FE3301-42A0-4F6C-8AB8-C48358DA9BC1}
+	EndGlobalSection
+EndGlobal
